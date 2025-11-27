@@ -1,1 +1,7 @@
-![bunny](https://raw.githubusercontent.com/ltpzxgit/ltpzxgit/main/bunny-runner.svg)
+(\_/)
+(¬_¬)   — calculating...
+ / >📊
+
+It watches.  
+Thinks three moves ahead.  
+Fixes things before they become problems.
