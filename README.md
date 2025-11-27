@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![ltpz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltpzxgit&show_icons=true)
+``` :contentReference[oaicite:3]{index=3}  
