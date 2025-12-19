@@ -6,14 +6,11 @@
 Not a problem for me
 It’s predictable.
 ```
-![AWS](https://img.shields.io/badge/AWS-0A0F14?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-0A0F14?style=for-the-badge&logo=terraform&logoColor=7B42BC)
-![Docker](https://img.shields.io/badge/Docker-0A0F14?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-0A0F14?style=for-the-badge&logo=linux&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0F14?style=for-the-badge&logo=githubactions&logoColor=white)
-![React](https://img.shields.io/badge/React-0A0F14?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AWS](https://img.shields.io/badge/AWS-black?logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Terraform](https://img.shields.io/badge/Terraform-black?logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-black?logo=ansible)
-![Docker](https://img.shields.io/badge/Docker-black?logo=docker)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Terraform](https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
